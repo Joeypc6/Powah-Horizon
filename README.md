@@ -15,3 +15,9 @@ well (LICENSE, with the GPL-3.0 it extends in COPYING.GPL-3.0).
   ender cells and gates, the player transmitter, batteries, binding cards, the wrench and the lenses, with Powah's
   screens, recipes and JEI categories, the W guide with 3D scenes, and Jade.
 - Built for Horizon fdc87ae (Nightly 2026-11-08); see `horizon-native.json`.
+
+## Tested
+
+In game on Horizon `fdc87ae` (with the other ports): generators, cells, cables and the wrench, the energizing orb and rods,
+batteries charging items, binding cards, the photoelectric pane turning into a lens of ender, the screens and JEI cards (fluids drawn
+as textures), and the W guide. The block and item models were compared with the 2.3.16 jar's: all 287 the same, none missing.
