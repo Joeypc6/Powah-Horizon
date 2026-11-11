@@ -1,0 +1,4 @@
+Powah for Horizon is a port of Powah 2.3.16 by owmii (https://github.com/owmii/Powah) and of the parts of Lollipop
+(https://github.com/owmii/Lollipop, branch 1.16, commit a7ff674) that Powah uses, both under the GNU Lesser General
+Public License v3.0. This port is a modified version under the same licence (LICENSE, and COPYING.GPL-3.0 for the
+GPL-3.0 it builds on). The Rust code is a rewrite for Horizon; textures, models and language files are Powah's.
